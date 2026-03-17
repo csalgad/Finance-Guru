@@ -1,0 +1,56 @@
+[00:04:13.749] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
+[00:04:13.960] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
+[00:04:14.327] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
+[00:04:14.464] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
+[00:04:14.754] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
+[00:04:15.074] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
+[00:04:15.201] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
+[00:04:15.418] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/router-server.js
+- /home/csclawbot/.openclaw/workspace/Finance-Guru/frontend/node_modules/next/dist/server/lib/start-server.js
